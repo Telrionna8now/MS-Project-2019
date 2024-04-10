@@ -1,5 +1,7 @@
 # MS-Project-2019
 
+<img src="https://github.com/Telrionna8now/MS-Project-2019/blob/main/ms.png"/>
+
 ___
 
 **Welcome to Microsoft® Project® 2019/2021/365: Part 1. This course is designed to familiarize you with the basic features and functions of Microsoft Project so you can effectively and efficiently manage projects in a real-world environment**
@@ -24,3 +26,4 @@ In this course, you will be able to construct basic project plans using Microsof
 
 +  Optimize and share a project plan
 
+<img src="https://github.com/Telrionna8now/MS-Project-2019/blob/main/dl.png"/>
